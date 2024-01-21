@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhanrahman0027
+- 👋 Hi, I’m Farhanur Rahman
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on java projects.
