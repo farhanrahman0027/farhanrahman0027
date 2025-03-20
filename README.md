@@ -4,8 +4,6 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 
 ---
 
-## 🚀 About Me
-
 ## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast  
 
 💻 Passionate about building **scalable web applications** using **React.js, Node.js, and MongoDB**.  
@@ -25,7 +23,7 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 ## 🚀 Tech Stack   
 
 ### Frontend  
-<img src="YOUR_IMAGE_LINK_HTML" alt="HTML5" width="100"/>  
+<img src="[YOUR_IMAGE_LINK_HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F25%2Fweb-technologies&psig=AOvVaw2iTIzhutpqmUztu4DnfGVV&ust=1742555100390000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODfkMjBmIwDFQAAAAAdAAAAABAE)" alt="HTML5" width="100"/>  
 <img src="YOUR_IMAGE_LINK_CSS" alt="CSS3" width="100"/>  
 <img src="YOUR_IMAGE_LINK_JS" alt="JavaScript" width="100"/>  
 <img src="YOUR_IMAGE_LINK_REACT" alt="React.js" width="100"/>  
