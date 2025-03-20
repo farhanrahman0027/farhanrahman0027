@@ -18,31 +18,22 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 
 
 
-<div align="center">
+## Tech Stack
 
-## 🚀 Tech Stack   
-
-### Frontend  
-<img src="C:\Users\FARHANUR RAHMAN\Downloads\images.png"/>  
-<img src="[YOUR_IMAGE_LINK_CSS](https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg)" alt="CSS3" width="100"/>  
-<img src="YOUR_IMAGE_LINK_JS" alt="JavaScript" width="100"/>  
-<img src="YOUR_IMAGE_LINK_REACT" alt="React.js" width="100"/>  
-<img src="YOUR_IMAGE_LINK_BOOTSTRAP" alt="Bootstrap" width="100"/>  
-<img src="YOUR_IMAGE_LINK_TAILWIND" alt="Tailwind CSS" width="100"/>  
-
-### Backend  
-<img src="YOUR_IMAGE_LINK_NODE" alt="Node.js" width="100"/>  
-<img src="YOUR_IMAGE_LINK_FIREBASE" alt="Firebase" width="100"/>  
-
-### Database  
-<img src="YOUR_IMAGE_LINK_MONGODB" alt="MongoDB" width="100"/>  
-
-### Tools & Platforms  
-<img src="YOUR_IMAGE_LINK_GIT" alt="Git" width="100"/>  
-<img src="YOUR_IMAGE_LINK_GITHUB" alt="GitHub" width="100"/>  
-<img src="YOUR_IMAGE_LINK_VSCODE" alt="VS Code" width="100"/>  
-
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+</p>
 
 
 ---
