@@ -41,7 +41,7 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 ### [NextGen Edu](https://github.com/farhanrahman0027/nextgen-edu)
 A web application transforming education management with seamless student management, Firestore integration, and Firebase Authentication.
 
-### Podcast Application
+### Podcast Application(https://podcast-neon.vercel.app/)
 An optimized platform for discovering, listening, and managing podcasts, offering podcasters a space to generate, publish, and share their creations. *(Work in Progress)*
 
 ---
@@ -56,4 +56,4 @@ An optimized platform for discovering, listening, and managing podcasts, offerin
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/farhanur-rahman)  
-- [Portfolio](#) *(Coming Soon)*
+- [Portfolio](https://my-portfolio-plum-nu-99.vercel.app/) 
