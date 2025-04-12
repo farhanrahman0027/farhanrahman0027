@@ -20,7 +20,7 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 
 ## Tech Stack
 
-<p align="center">
+<p align="">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 0 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" style="margin: 0 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" style="margin: 0 20px;"/>
