@@ -12,7 +12,8 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 💡 Love turning ideas into reality through **clean, efficient, and innovative solutions**.  
 
 📩 **Let’s connect:** farhanrahman0027@gmail.com  
-
+- [LinkedIn](https://www.linkedin.com/in/farhanur-rahman)  
+- [Portfolio](https://my-portfolio-plum-nu-99.vercel.app/) 
 
 ---
 
