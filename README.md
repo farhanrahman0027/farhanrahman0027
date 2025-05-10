@@ -37,13 +37,6 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 
 ---
 
-## 🌟 Projects
-
-### [NextGen Edu](https://github.com/farhanrahman0027/nextgen-edu)
-NextGen Edu is an e-learning platform designed to provide a seamless and interactive learning experience. 
-### [Podcast Application](https://podcast-neon.vercel.app/)
-An optimized platform for discovering, listening, and managing podcasts, offering podcasters a space to generate, publish, and share their creations. *(Work in Progress)*
-
 ---
 
 ## 📈 GitHub Stats
