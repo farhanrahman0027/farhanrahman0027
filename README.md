@@ -51,7 +51,18 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 ---
 ## ⚡ Activity Graph
 
-[![Farhanur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=react-dark&hide_border=true&area=true)]
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=react-dark&hide_border=true&area=true" 
+    alt="Farhanur Rahman's GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
+    📈 View Graph Source
+  </a>
+</p>
 
 ---
 ## 🔗 Let's Connect
