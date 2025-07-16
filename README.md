@@ -53,13 +53,10 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=tokyonight&hide_border=false&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=github&line=2ecc71&point=27ae60&area=true&hide_border=false" 
     alt="Farhanur Rahman's GitHub Activity Graph"
-    style="border: 2px solid #3E4095; border-radius: 8px; padding: 4px;"
+    style="border: 2px solid #2ecc71; border-radius: 8px; padding: 4px;"
   />
 </p>
 
 ---
-## 🔗 Let's Connect
-
-<p align="center"> <a href="https://www.linkedin.com/in/farhanur-rahman" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://my-portfolio-plum-nu-99.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
