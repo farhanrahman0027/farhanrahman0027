@@ -49,7 +49,10 @@ A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, 
 </p>
 
 ---
+## ⚡ Activity Graph
 
+[![Farhanur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ## 🔗 Let's Connect
 
 <p align="center"> <a href="https://www.linkedin.com/in/farhanur-rahman" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://my-portfolio-plum-nu-99.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
