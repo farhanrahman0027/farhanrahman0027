@@ -1,6 +1,6 @@
 # Hey there, I'm Farhanur Rahman! 👋
 
-A passionate **Web Developer** and aspiring **Software Engineer** from **MANUU, Hyderabad**. I love creating seamless digital experiences and solving real-world problems with clean and efficient code.
+A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad. I build clean, efficient, and user-focused digital experiences that solve real-world problems with simplicity and impact.
 
 ---
 
