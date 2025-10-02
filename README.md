@@ -1,3 +1,5 @@
+
+<img src="[https://your-image-link.com/profile.jpg](https://www.linkedin.com/in/farhanur-rahman/overlay/background-image/)" alt="Farhanur Rahman" width="200" align="right" />
 # Hey there, I'm Farhanur Rahman! 👋
 
 A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad. I build clean, efficient, and user-focused digital experiences that solve real-world problems with simplicity and impact.
