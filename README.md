@@ -1,5 +1,5 @@
 # Hey there, I'm Farhanur Rahman! 👋
-<img src="./profileimg.jpeg" alt="Farhanur Rahman" width="100%" height="200" />
+<img src="./profileimg.jpeg" alt="Farhanur Rahman" width="100%" height="400" />
 
 
 A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad. I build clean, efficient, and user-focused digital experiences that solve real-world problems with simplicity and impact.
