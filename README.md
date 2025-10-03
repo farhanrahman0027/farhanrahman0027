@@ -1,21 +1,22 @@
 # Hey there, I'm Farhanur Rahman! 👋
-<img src="./profile.png" alt="Farhanur Rahman" width="100%" height="300" />
 
+<img src="./profile.png" alt="Farhanur Rahman" width="100%" height="300" />
 
 A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad. I build clean, efficient, and user-focused digital experiences that solve real-world problems with simplicity and impact.
 
 ---
 
-## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast  
+## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 💻 Passionate about building **scalable web applications** using **React.js, Node.js, and MongoDB**.  
 ⚡ Always exploring new technologies, debugging complex code, and optimizing performance.  
 🎯 Currently deep-diving into **backend development, AI, and cloud technologies**.  
-💡 Love turning ideas into reality through **clean, efficient, and innovative solutions**.  
+💡 Love turning ideas into reality through **clean, efficient, and innovative solutions**.
 
-📩 **Let’s connect:** farhanrahman0027@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/farhanur-rahman)  
-- [Portfolio](https://my-portfolio-plum-nu-99.vercel.app/) 
+📩 **Let’s connect:** farhanrahman0027@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/farhanur-rahman)
+- [Portfolio](https://my-portfolio-plum-nu-99.vercel.app/)
 
 ---
 
@@ -23,7 +24,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 <div align="center">
 
-### 📝 Languages  
+### 📝 Languages
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
@@ -35,7 +37,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
-### 🎨 Frontend  
+### 🎨 Frontend
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML5</td>
@@ -49,7 +52,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
-### 🖥️ Backend  
+### 🖥️ Backend
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
@@ -60,7 +64,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
-### 🗄️ Databases  
+### 🗄️ Databases
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
@@ -70,7 +75,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
-### 🛠️ Tools  
+### 🛠️ Tools
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
@@ -81,7 +87,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
-### ☁️ Cloud / DevOps  
+### ☁️ Cloud / DevOps
+
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
@@ -90,8 +97,8 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 </table>
 
 </div>
----
-## 🚀GitHub Stats
+ ---
+ ### 🚀GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhanrahman0027&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&hide_rank=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrahman0027&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
@@ -102,6 +109,7 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 </p>
 
 ---
+
 ## ⚡ Activity Graph
 
 <p align="center">
