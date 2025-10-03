@@ -21,49 +21,75 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ## 🚀 Tech Stack
 
-### 📝 Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40"/>
-</p>
+<div align="center">
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40"/>
-</p>
+### 📝 Languages  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+    <td><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=typescript" width="60"/><br>TypeScript</td>
+  </tr>
+</table>
 
-### 🖥️ Backend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40"/>
-</p>
+---
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/>
-</p>
+### 🎨 Frontend  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML5</td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS3</td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br>Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br>Bootstrap</td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
+  </tr>
+</table>
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/>
-</p>
+---
 
-### ☁️ Cloud / DevOps
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40"/>
-</p>
+### 🖥️ Backend  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express</td>
+    <td><img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django</td>
+  </tr>
+</table>
+
+---
+
+### 🗄️ Databases  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tools  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+    <td><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
+    <td><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
+  </tr>
+</table>
+
+---
+
+### ☁️ Cloud / DevOps  
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br>Firebase</td>
+  </tr>
+</table>
+
+</div>
 
 ## 🚀GitHub Stats
 <p align="center">
