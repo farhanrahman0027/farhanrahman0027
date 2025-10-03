@@ -95,8 +95,9 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
     <td><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br>Firebase</td>
   </tr>
 </table>
----
 </div>
+
+---
 
  ### 🚀GitHub Stats
 <p align="center">
