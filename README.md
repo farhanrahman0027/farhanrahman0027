@@ -1,4 +1,3 @@
-# Hey there, I'm Farhanur Rahman! 👋
 
 <img src="./profile.png" alt="Farhanur Rahman" width="100%" height="300" />
 
