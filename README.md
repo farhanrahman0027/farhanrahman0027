@@ -98,14 +98,14 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 
 ---
 
- ## 🚀GitHub Stats
+## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhanrahman0027&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10&hide_rank=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrahman0027&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=farhanrahman0027&theme=tokyonight&hide_border=true&border_radius=10&fire=orange&currStreakLabel=orange" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrahman0027&theme=tokyonight&hide_border=true&border_radius=10&fire=orange&currStreakLabel=orange" width="60%" />
 </p>
 
 ---
