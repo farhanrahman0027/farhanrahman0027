@@ -105,8 +105,9 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrahman0027&theme=tokyonight&hide_border=true&border_radius=10&fire=orange&currStreakLabel=orange" width="60%" />
+  <img src="https://github-readme-streak-stats-seven.vercel.app?user=farhanrahman0027&theme=tokyonight&hide_border=true&border_radius=10&fire=orange&currStreakLabel=orange" width="60%" />
 </p>
+
 
 ---
 
