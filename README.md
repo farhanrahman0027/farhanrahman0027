@@ -115,11 +115,7 @@ A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad.
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=github&line=2ecc71&point=27ae60&area=true&hide_border=false" 
-    alt="Farhanur Rahman's GitHub Activity Graph"
-    style="border: 2px solid #2ecc71; border-radius: 8px; padding: 4px;"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
