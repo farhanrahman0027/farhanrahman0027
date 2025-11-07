@@ -1,121 +1,148 @@
-
-<img src="./profile.png" alt="Farhanur Rahman" width="100%" height="300" />
-
-A passionate Web Developer and aspiring Software Engineer from MANUU, Hyderabad. I build clean, efficient, and user-focused digital experiences that solve real-world problems with simplicity and impact.
-
----
-
-## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-💻 Passionate about building **scalable web applications** using **React.js, Node.js, and MongoDB**.  
-⚡ Always exploring new technologies, debugging complex code, and optimizing performance.  
-🎯 Currently deep-diving into **backend development, AI, and cloud technologies**.  
-💡 Love turning ideas into reality through **clean, efficient, and innovative solutions**.
-
-📩 **Let’s connect:** farhanrahman0027@gmail.com
-
-- [LinkedIn](https://www.linkedin.com/in/farhanur-rahman)
-- [Portfolio](https://my-portfolio-plum-nu-99.vercel.app/)
-
----
-
-## 🚀 Tech Stack
-
 <div align="center">
 
-### 📝 Languages
+# 👋 Hi, I'm Farhanur Rahman
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
-    <td><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
-    <td><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
-    <td><img src="https://skillicons.dev/icons?i=typescript" width="60"/><br>TypeScript</td>
-  </tr>
-</table>
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Exploring+AI+%26+Cloud+Technologies;Turning+ideas+into+reality" alt="Typing SVG" />
 
-### 🎨 Frontend
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML5</td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS3</td>
-    <td><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br>Next.js</td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br>Bootstrap</td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
-  </tr>
-</table>
+<br/>
 
----
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanur-rahman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-plum-nu-99.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrahman0027@gmail.com)
 
-### 🖥️ Backend
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
-    <td><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express</td>
-    <td><img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django</td>
-  </tr>
-</table>
-
----
-
-### 🗄️ Databases
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tools
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
-    <td><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
-    <td><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
-  </tr>
-</table>
-
----
-
-### ☁️ Cloud / DevOps
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
-    <td><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br>Firebase</td>
-  </tr>
-</table>
 </div>
 
 ---
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanrahman0027&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrahman0027&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+## 🚀 About Me
+
+```typescript
+const farhan = {
+    location: "MANUU, Hyderabad 🇮🇳",
+    education: "Software Engineering Student",
+    currentFocus: ["Backend Development", "AI Integration", "Cloud Technologies"],
+    workingOn: "Building scalable web applications with modern tech stack",
+    philosophy: "Clean code, efficient solutions, user-focused experiences",
+    funFact: "I debug code faster than I debug my life 😄"
+};
+```
+
+<br/>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Languages & Core
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.mrchingis.vercel.app?user=farhanrahman0027&theme=tokyonight&hide_border=true&border_radius=10&fire=orange&currStreakLabel=orange" width="60%" />
+### Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
+### Backend Development
 
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanrahman0027&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrahman0027&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrahman0027&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="60%"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanrahman0027&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+</div>
+
+<br/>
+
+## 💡 Current Focus
+
+```javascript
+const currentGoals = {
+    learning: ["System Design", "Microservices Architecture", "AI/ML Integration"],
+    building: ["Scalable Backend APIs", "Real-time Applications", "Cloud-Native Solutions"],
+    exploring: ["AWS Services", "Kubernetes", "GraphQL"],
+    improving: ["Code Quality", "Performance Optimization", "Best Practices"]
+};
+```
 
 ---
 
-## ⚡ Activity Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
-</p>
+### 💬 Let's Build Something Amazing Together!
 
----
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=farhanrahman0027&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<br/>
+
+⭐️ From [farhanrahman0027](https://github.com/farhanrahman0027) | Made with 💙 and lots of ☕
+
+</div>
