@@ -38,7 +38,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  🌍 <b>Location:</b> MANUU, Hyderabad 🇮🇳 <br>
+  🌍 <b>Location:</b> Hyderabad 🇮🇳 <br>
   🎓 <b>Education:</b> Software Engineering  <br>
   💡 <b>Focus Areas:</b> Backend Development, AI Integration, Cloud Technologies <br>
   🧩 <b>Currently Working On:</b> Building scalable web applications with modern stacks <br>
