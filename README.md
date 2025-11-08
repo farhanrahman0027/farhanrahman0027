@@ -11,12 +11,15 @@
 <br/>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanur-rahman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-plum-nu-99.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrahman0027@gmail.com)
+
+### 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/farhanur-rahman)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6F00&color=FF6F00)](https://my-portfolio-plum-nu-99.vercel.app/)
+[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335)](mailto:farhanrahman0027@gmail.com)
 
 </div>
+
 
 ---
 
