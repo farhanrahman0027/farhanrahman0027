@@ -37,16 +37,15 @@
 
 ## 🚀 About Me
 
-```typescript
-const farhan = {
-    location: "MANUU, Hyderabad 🇮🇳",
-    education: "Software Engineering Student",
-    currentFocus: ["Backend Development", "AI Integration", "Cloud Technologies"],
-    workingOn: "Building scalable web applications with modern tech stack",
-    philosophy: "Clean code, efficient solutions, user-focused experiences",
-    funFact: "I debug code faster than I debug my life 😄"
-};
-```
+<p align="center">
+  🌍 <b>Location:</b> MANUU, Hyderabad 🇮🇳 <br>
+  🎓 <b>Education:</b> Software Engineering  <br>
+  💡 <b>Focus Areas:</b> Backend Development, AI Integration, Cloud Technologies <br>
+  🧩 <b>Currently Working On:</b> Building scalable web applications with modern stacks <br>
+  ⚡ <b>Philosophy:</b> Clean code, efficient solutions, and user-centered design <br>
+  😄 <b>Fun Fact:</b> I debug code faster than I debug my life!
+</p>
+
 
 <br/>
 
