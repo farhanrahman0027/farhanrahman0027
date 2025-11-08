@@ -14,9 +14,21 @@
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/farhanur-rahman)
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6F00&color=FF6F00)](https://my-portfolio-plum-nu-99.vercel.app/)
-[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335)](mailto:farhanrahman0027@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/farhanur-rahman/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>
+  <a href="https://my-portfolio-plum-nu-99.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=17949&format=png" width="48" height="48" alt="Portfolio" />
+  </a>
+  <a href="mailto:farhanrahman0027@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=12580&format=png" width="48" height="48" alt="Email" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+  </a>
+  
+</p>
 
 </div>
 
