@@ -126,16 +126,6 @@
 
 <br/>
 
-## 💡 Current Focus
-
-```javascript
-const currentGoals = {
-    learning: ["System Design", "Microservices Architecture", "AI/ML Integration"],
-    building: ["Scalable Backend APIs", "Real-time Applications", "Cloud-Native Solutions"],
-    exploring: ["AWS Services", "Kubernetes", "GraphQL"],
-    improving: ["Code Quality", "Performance Optimization", "Best Practices"]
-};
-```
 
 ---
 
