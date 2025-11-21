@@ -27,11 +27,9 @@
   <a href="https://discord.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
   </a>
-  
 </p>
 
 </div>
-
 
 ---
 
@@ -45,7 +43,6 @@
   ⚡ <b>Philosophy:</b> Clean code, efficient solutions, and user-centered design <br>
   😄 <b>Fun Fact:</b> I debug code faster than I debug my life!
 </p>
-
 
 <br/>
 
@@ -107,13 +104,20 @@
   <img src="https://streak-stats.demolab.com?user=farhanrahman0027&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="60%"/>
 </div>
 
-
 <br/>
 
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrahman0027&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## 🌟 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=farhanrahman0027&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 <br/>
@@ -125,7 +129,6 @@
 </div>
 
 <br/>
-
 
 ---
 
